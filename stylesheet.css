@@ -6,3 +6,9 @@ body {
     justify-content: center;
     height: 100vh;
 }
+
+div {
+    background-color: whitesmoke;
+    border: 3px solid whitesmoke;
+    border-radius: 4px;
+}
